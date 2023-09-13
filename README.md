@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![koba-masa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokyonight&cache_seconds=86400&show_icons=true)
+![koba-masa's GitHub stats](https://github-readme-stats.vercel.app/api?username=koba-masa&theme=tokyonight&cache_seconds=86400&show_icons=true)
 
 <!--
 **koba-masa/koba-masa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
